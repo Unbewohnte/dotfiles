@@ -1,0 +1,4 @@
+cursors -> ~/.icons
+icons   -> ~/.local/share/icons
+themes  -> ~/.themes
+schemes -> ~/.xfce4/terminal/colorschemes
